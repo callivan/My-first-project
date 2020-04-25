@@ -361,6 +361,7 @@
 }
 .footer__column_links{
   color: white;
+  text-decoration: none;
 }
 .footer_social-icon{
   margin-right: 10px;
